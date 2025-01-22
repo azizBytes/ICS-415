@@ -112,3 +112,8 @@ This project is open-source and available under the MIT License.
 ## Acknowledgments
 This implementation is inspired by foundational concepts in computer graphics and ray tracing techniques.
 
+
+
+![image](https://github.com/user-attachments/assets/0e2f211d-b6af-460f-ba09-67d4934dea84)
+
+
