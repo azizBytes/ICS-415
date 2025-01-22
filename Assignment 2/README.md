@@ -1,6 +1,6 @@
 # Ray Tracing Renderer with Lighting
 
-This project is an enhanced ray tracing algorithm that renders 3D scenes consisting of spheres with lighting effects. The rendered output includes ambient, point, and directional lighting, providing a realistic depiction of the scene. The final image is displayed using Matplotlib.
+This Assignment is an enhanced ray tracing algorithm that renders 3D scenes consisting of spheres with lighting effects. The rendered output includes ambient, point, and directional lighting, providing a realistic depiction of the scene. The final image is displayed using Matplotlib.
 
 ## Features
 - **Ray-Sphere Intersection**: Determines where rays intersect spheres in the scene.
@@ -107,7 +107,7 @@ The rendered output will display multiple colored spheres illuminated by ambient
 - `matplotlib` for image display
 
 ## License
-This project is open-source and available under the MIT License.
+This Code is open-source and available under the MIT License.
 
 ## Acknowledgments
 This implementation is inspired by foundational concepts in computer graphics and ray tracing techniques.
