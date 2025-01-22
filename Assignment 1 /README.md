@@ -1,6 +1,6 @@
 # Ray Tracing Renderer
 
-This project implements a basic ray tracing algorithm to render 3D scenes consisting of spheres onto a 2D image. The final output is a PNG file showcasing the spheres with accurate color and shading.
+This Assignment implements a basic ray tracing algorithm to render 3D scenes consisting of spheres onto a 2D image. The final output is a PNG file showcasing the spheres with accurate color and shading.
 
 ## Features
 - **Ray-Sphere Intersection**: Calculates intersections between rays and spheres to determine visibility.
@@ -74,7 +74,7 @@ The output is a 2D image showing red, blue, and green spheres on a white backgro
 - `Pillow` for image handling
 
 ## License
-This project is open-source and available under the MIT License.
+This Code is open-source and available under the MIT License.
 
 ## Acknowledgments
 Special thanks to computer graphics pioneers for foundational ray tracing techniques!
