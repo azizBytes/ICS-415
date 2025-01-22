@@ -79,3 +79,8 @@ This Code is open-source and available under the MIT License.
 ## Acknowledgments
 Special thanks to computer graphics pioneers for foundational ray tracing techniques!
 
+![image](https://github.com/user-attachments/assets/81ad38c9-e5d6-4245-a0fa-98ced3ece7b6)
+
+
+
+
