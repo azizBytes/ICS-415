@@ -3,9 +3,7 @@ ICS-415 – Computer Graphics Projects & Assignments
 Welcome to the repository for ICS 415: Computer Graphics. This collection encompasses all assignments and projects undertaken during the course, showcasing implementations of fundamental graphics techniques using languages such as Java and Python.
 
 📁 Repository Structure
-نسخ
-تحرير
-ICS-415/
+
 ├── Assignment 1/           # Basic Ray Tracing
 ├── Assignment 2/           # Reflections and Lighting
 ├── Assignment 3/           # Shadows and Transparency
